@@ -1,0 +1,8 @@
+{
+    "colors":{
+        "background": "#0F171E",
+        "secondary": "#19232D",
+        "search_bar": "#18202B",
+        "unfocus": "#bfbfbf"
+    }
+}
